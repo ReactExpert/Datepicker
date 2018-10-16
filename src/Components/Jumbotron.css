@@ -1,0 +1,28 @@
+.display-3{
+    font-size: 3rem;
+    font-weight: 500;
+    line-height: 1.1;
+    color: #fff;
+}
+
+.carbonads {
+    float: right;
+    max-width: 330px;
+    margin: -110px auto 0;
+    border-width: 1px;
+    border-radius: 4px;
+    border-color: #fff;
+    border-radius: .25rem;
+    border: 1px solid #ccc;
+    font-size: .875rem;
+    overflow: hidden;
+    padding: 1rem;
+}
+
+.jumbotron {
+    background-color: #007bff!important;
+}
+
+.jumbotron p{
+    color: #fff;
+}
